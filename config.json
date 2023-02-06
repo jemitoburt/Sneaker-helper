@@ -1,0 +1,10 @@
+{
+    "license_key": "REPLACE_WITH_LICENSE_KEY",
+    "monitor_channel_name": "REPLACE_WITH_CHANNEL_NAME",
+    "discord_bot_token": "REPLACE_WITH_DISCORD_BOT_TOKEN",
+    "webhook_url": "REPLACE_WITH_DISCORD_WEBHOOK_URL",
+    "gmail_username": "REPLACE_WITH_GMAIL_USERNAME",
+    "gmail_password": "REPLACE_WITH_GMAIL_APP_PASSWORD",
+    "dhl_api_key": "REPLACE_WITH_DHL_API_KEY",
+    "chronopost_api_key": "REPLACE_WITH_CHRONOPOST_API_KEY"
+}
